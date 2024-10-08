@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sasan\\source\\repos\\RunGroupWebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6DCF0582-D041-4C09-B6A3-85F0367E5088}|RunGroupWebApp\\RunGroupWebApp.csproj|c:\\users\\sasan\\source\\repos\\rungroupwebapp\\rungroupwebapp\\repository\\racerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DCF0582-D041-4C09-B6A3-85F0367E5088}|RunGroupWebApp\\RunGroupWebApp.csproj|solutionrelative:rungroupwebapp\\repository\\racerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DCF0582-D041-4C09-B6A3-85F0367E5088}|RunGroupWebApp\\RunGroupWebApp.csproj|c:\\users\\sasan\\source\\repos\\rungroupwebapp\\rungroupwebapp\\views\\race\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DCF0582-D041-4C09-B6A3-85F0367E5088}|RunGroupWebApp\\RunGroupWebApp.csproj|solutionrelative:rungroupwebapp\\views\\race\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DCF0582-D041-4C09-B6A3-85F0367E5088}|RunGroupWebApp\\RunGroupWebApp.csproj|c:\\users\\sasan\\source\\repos\\rungroupwebapp\\rungroupwebapp\\views\\club\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DCF0582-D041-4C09-B6A3-85F0367E5088}|RunGroupWebApp\\RunGroupWebApp.csproj|solutionrelative:rungroupwebapp\\views\\club\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DCF0582-D041-4C09-B6A3-85F0367E5088}|RunGroupWebApp\\RunGroupWebApp.csproj|c:\\users\\sasan\\source\\repos\\rungroupwebapp\\rungroupwebapp\\views\\race\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DCF0582-D041-4C09-B6A3-85F0367E5088}|RunGroupWebApp\\RunGroupWebApp.csproj|solutionrelative:rungroupwebapp\\views\\race\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DCF0582-D041-4C09-B6A3-85F0367E5088}|RunGroupWebApp\\RunGroupWebApp.csproj|c:\\users\\sasan\\source\\repos\\rungroupwebapp\\rungroupwebapp\\views\\club\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DCF0582-D041-4C09-B6A3-85F0367E5088}|RunGroupWebApp\\RunGroupWebApp.csproj|solutionrelative:rungroupwebapp\\views\\club\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DCF0582-D041-4C09-B6A3-85F0367E5088}|RunGroupWebApp\\RunGroupWebApp.csproj|c:\\users\\sasan\\source\\repos\\rungroupwebapp\\rungroupwebapp\\controllers\\racecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DCF0582-D041-4C09-B6A3-85F0367E5088}|RunGroupWebApp\\RunGroupWebApp.csproj|solutionrelative:rungroupwebapp\\controllers\\racecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DCF0582-D041-4C09-B6A3-85F0367E5088}|RunGroupWebApp\\RunGroupWebApp.csproj|c:\\users\\sasan\\source\\repos\\rungroupwebapp\\rungroupwebapp\\controllers\\clubcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DCF0582-D041-4C09-B6A3-85F0367E5088}|RunGroupWebApp\\RunGroupWebApp.csproj|solutionrelative:rungroupwebapp\\controllers\\clubcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DCF0582-D041-4C09-B6A3-85F0367E5088}|RunGroupWebApp\\RunGroupWebApp.csproj|c:\\users\\sasan\\source\\repos\\rungroupwebapp\\rungroupwebapp\\views\\race\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DCF0582-D041-4C09-B6A3-85F0367E5088}|RunGroupWebApp\\RunGroupWebApp.csproj|solutionrelative:rungroupwebapp\\views\\race\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RaceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sasan\\source\\repos\\RunGroupWebApp\\RunGroupWebApp\\Repository\\RaceRepository.cs",
+              "RelativeDocumentMoniker": "RunGroupWebApp\\Repository\\RaceRepository.cs",
+              "ToolTip": "C:\\Users\\sasan\\source\\repos\\RunGroupWebApp\\RunGroupWebApp\\Repository\\RaceRepository.cs",
+              "RelativeToolTip": "RunGroupWebApp\\Repository\\RaceRepository.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAiwCUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T16:00:20.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sasan\\source\\repos\\RunGroupWebApp\\RunGroupWebApp\\Views\\Race\\Index.cshtml",
+              "RelativeDocumentMoniker": "RunGroupWebApp\\Views\\Race\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sasan\\source\\repos\\RunGroupWebApp\\RunGroupWebApp\\Views\\Race\\Index.cshtml",
+              "RelativeToolTip": "RunGroupWebApp\\Views\\Race\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-24T15:59:02.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sasan\\source\\repos\\RunGroupWebApp\\RunGroupWebApp\\Views\\Club\\Index.cshtml",
+              "RelativeDocumentMoniker": "RunGroupWebApp\\Views\\Club\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sasan\\source\\repos\\RunGroupWebApp\\RunGroupWebApp\\Views\\Club\\Index.cshtml",
+              "RelativeToolTip": "RunGroupWebApp\\Views\\Club\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-24T15:58:56.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\sasan\\source\\repos\\RunGroupWebApp\\RunGroupWebApp\\Views\\Race\\Delete.cshtml",
+              "RelativeDocumentMoniker": "RunGroupWebApp\\Views\\Race\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\sasan\\source\\repos\\RunGroupWebApp\\RunGroupWebApp\\Views\\Race\\Delete.cshtml",
+              "RelativeToolTip": "RunGroupWebApp\\Views\\Race\\Delete.cshtml",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAADEAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-24T15:56:02.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\sasan\\source\\repos\\RunGroupWebApp\\RunGroupWebApp\\Views\\Club\\Delete.cshtml",
+              "RelativeDocumentMoniker": "RunGroupWebApp\\Views\\Club\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\sasan\\source\\repos\\RunGroupWebApp\\RunGroupWebApp\\Views\\Club\\Delete.cshtml",
+              "RelativeToolTip": "RunGroupWebApp\\Views\\Club\\Delete.cshtml",
+              "ViewState": "AQIAACMAAAAAAAAAAAAuwDsAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-24T15:36:08.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\sasan\\source\\repos\\RunGroupWebApp\\RunGroupWebApp\\Views\\Race\\Edit.cshtml",
+              "RelativeDocumentMoniker": "RunGroupWebApp\\Views\\Race\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\sasan\\source\\repos\\RunGroupWebApp\\RunGroupWebApp\\Views\\Race\\Edit.cshtml",
+              "RelativeToolTip": "RunGroupWebApp\\Views\\Race\\Edit.cshtml",
+              "ViewState": "AQIAACUAAAAAAAAAAAAAADcAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-24T13:08:17.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RaceController.cs",
+              "DocumentMoniker": "C:\\Users\\sasan\\source\\repos\\RunGroupWebApp\\RunGroupWebApp\\Controllers\\RaceController.cs",
+              "RelativeDocumentMoniker": "RunGroupWebApp\\Controllers\\RaceController.cs",
+              "ToolTip": "C:\\Users\\sasan\\source\\repos\\RunGroupWebApp\\RunGroupWebApp\\Controllers\\RaceController.cs",
+              "RelativeToolTip": "RunGroupWebApp\\Controllers\\RaceController.cs",
+              "ViewState": "AQIAAIsAAAAAAAAAAAAAAJIAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T13:00:51.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClubController.cs",
+              "DocumentMoniker": "C:\\Users\\sasan\\source\\repos\\RunGroupWebApp\\RunGroupWebApp\\Controllers\\ClubController.cs",
+              "RelativeDocumentMoniker": "RunGroupWebApp\\Controllers\\ClubController.cs",
+              "ToolTip": "C:\\Users\\sasan\\source\\repos\\RunGroupWebApp\\RunGroupWebApp\\Controllers\\ClubController.cs",
+              "RelativeToolTip": "RunGroupWebApp\\Controllers\\ClubController.cs",
+              "ViewState": "AQIAAIkAAAAAAAAAAAAswI0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T13:00:51.665Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
